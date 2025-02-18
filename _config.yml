@@ -27,7 +27,7 @@ navbar-links:
 # --- Logo --- #
 
 # Define site URL
-url: https://michelleann117.github.io/
+url: https://MichelleAnn117.github.io
 base.url: jekyll
 
 # Image to show in the navigation bar - works best with a square image
